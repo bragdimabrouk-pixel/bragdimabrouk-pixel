@@ -4,7 +4,7 @@
 
 I am a researcher in **mathematics and computational mathematics**, with interests in differential equations, mathematical modeling, numerical analysis, and scientific computing.
 
-My work focuses on the **analysis, modeling, and numerical simulation of complex dynamical systems**, with applications in fluid mechanics, mathematical biology, and scientific machine learning.
+My work focuses on the **analysis, modeling, and numerical simulation of complex dynamical systems**, with applications in fluid mechanics, mathematical biology.
 
 ## 🔬 Research Interests
 
@@ -15,16 +15,11 @@ My work focuses on the **analysis, modeling, and numerical simulation of complex
 * Fractional Differential Equations
 * Mathematical Modeling
 * Dynamical Systems
-* Stability and Bifurcation Analysis
 * Numerical Analysis
 * Computational Mathematics
 * Mathematical Biology
 * Fluid Mechanics and Flow Modeling
 * Scientific Computing
-* Physics-Informed Neural Networks (PINNs)
-* Neural Operators
-* Scientific Machine Learning
-* High-Performance Computing (HPC)
 
 ## 📚 Research & Publications
 
@@ -55,37 +50,6 @@ My research combines **mathematical analysis, numerical methods, scientific comp
   <img src="https://skillicons.dev/icons?i=linux,docker,nix,git,github" />
 </p>
 
-### 🤖 Scientific AI
-
-My interests in scientific machine learning include:
-
-* Physics-Informed Neural Networks (PINNs)
-* Neural Operators
-* Machine Learning for Differential Equations
-* Data-Driven Mathematical Modeling
-* AI-Assisted Scientific Computing
-
-## 🔬 Research Areas
-
-| Area                               | Topics                                                       |
-| ---------------------------------- | ------------------------------------------------------------ |
-| **Partial Differential Equations** | Nonlinear PDEs, reaction-diffusion systems                   |
-| **Differential Equations**         | ODEs, DDEs, fractional differential equations                |
-| **Dynamical Systems**              | Stability, bifurcation, qualitative analysis                 |
-| **Mathematical Biology**           | HBV, HIV, and biological dynamical models                    |
-| **Fluid Mechanics**                | Flow modeling, Navier–Stokes equations, numerical simulation |
-| **Numerical Analysis**             | Finite difference, finite element, numerical approximation   |
-| **Scientific Computing**           | Computational modeling, simulation, HPC                      |
-| **Scientific Machine Learning**    | PINNs, neural operators, AI for PDEs                         |
-
-## 🧠 Computational Approach
-
-> **Mathematical Theory → Mathematical Modeling → Numerical Analysis → Scientific Computing → Simulation → Scientific AI**
-
-I am particularly interested in connecting **classical mathematical analysis and numerical methods** with modern computational approaches to investigate complex mathematical models.
-
-This includes developing computational methods that can complement theoretical analysis and provide reliable numerical insight into nonlinear dynamical systems.
-
 ## 🚀 Projects
 
 I use GitHub to share and develop:
@@ -109,9 +73,6 @@ My current interests include:
 * Mathematical models in biology
 * Stability and bifurcation analysis
 * Computational fluid mechanics
-* Physics-Informed Neural Networks
-* Neural operators for PDEs
-* Scientific machine learning
 * AI-assisted computational mathematics
 
 ## 🌍 Academic Profile
@@ -120,7 +81,7 @@ My current interests include:
 
 **Research:** Mathematics · Differential Equations · Mathematical Modeling · Numerical Analysis · Scientific Computing
 
-**Interests:** Dynamical Systems · Mathematical Biology · Fluid Mechanics · Scientific Machine Learning
+**Interests:** Dynamical Systems · Mathematical Biology · Fluid Mechanics 
 
 ## 📫 Contact & Academic Profiles
 
