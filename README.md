@@ -49,28 +49,6 @@ My research interests include the mathematical analysis and computational study 
 
 ---
 
-## 💻 Computational Tools & Technologies
-
-My research combines **mathematical analysis, numerical methods, scientific computing, and modern computational technologies**.
-
-### 🧮 Scientific Computing
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,fortran,matlab" />
-</p>
-
-### 📝 Scientific Writing
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=latex,typst" />
-</p>
-
-### 🐧 Systems & Development
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,docker,nix,git,github" />
-</p>
-
 ## 🚀 Projects
 
 I use GitHub to share and develop:
