@@ -63,6 +63,33 @@ I use GitHub to share and develop:
   <img src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=bragdimabrouk-pixel&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff" />
 </p>
 
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=bragdimabrouk-pixel&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bragdimabrouk-pixel&theme=tokyo-night" />
+</p>
+
+---
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=bragdimabrouk-pixel&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=bragdimabrouk-pixel&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff" />
+</p>
+
 ## 🔥 Contribution Streak
 
 <p align="center">
