@@ -53,18 +53,6 @@ I use GitHub to share and develop:
 * LaTeX and Typst research documents
 * Experimental implementations of scientific machine learning methods
 
-## 📈 Current Research Directions
-
-My current interests include:
-
-* Numerical methods for differential equations
-* Nonlinear and fractional dynamical systems
-* Delay differential equations
-* Mathematical models in biology
-* Stability and bifurcation analysis
-* Computational fluid mechanics
-* AI-assisted computational mathematics
-
 ## 📊 GitHub Statistics
 
 <p align="center">
