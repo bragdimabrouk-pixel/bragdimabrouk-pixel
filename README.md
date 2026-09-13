@@ -57,15 +57,6 @@ I use a combination of **scientific computing, numerical methods, and modern com
 
 I am particularly interested in bridging **classical mathematical and numerical techniques** with **modern computational methods, scientific machine learning, and Physics-Informed Neural Networks (PINNs)** to study complex mathematical models and dynamical systems.
 
-
-## 💻 Computational Tools
-
-I work with:
-
-`Python` · `C++` · `Fortran` · `MATLAB` · `LaTeX` · `Typst` · `Linux` · `Docker` · `NixOS`
-
-I am particularly interested in combining **classical numerical methods with modern computational and machine-learning approaches**.
-
 ## 🧮 Areas of Current Work
 
 ```text
