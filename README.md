@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# Hi, I'm [Your Name] 👋
+# Hi, I'm M. Bragdi 👋
 
 ### Researcher in Mathematics | PDEs | Mathematical Modeling | Numerical Analysis
 
