@@ -53,16 +53,6 @@ I use GitHub to share and develop:
 * LaTeX and Typst research documents
 * Experimental implementations of scientific machine learning methods
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bragdimabrouk-pixel&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bragdimabrouk-pixel&layout=compact&theme=tokyonight" />
-</p>
-
 
 ## 📊 GitHub Statistics
 
