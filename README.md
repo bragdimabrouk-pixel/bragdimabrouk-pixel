@@ -4,8 +4,6 @@
 
 I am a researcher in **mathematics and computational mathematics**, with interests in differential equations, mathematical modeling, numerical analysis, and scientific computing.
 
-My work focuses on the **analysis, modeling, and numerical simulation of complex dynamical systems**, with applications in fluid mechanics and mathematical biology.
-
 ## 🔬 Research Interests
 
 * Partial Differential Equations (PDEs)
