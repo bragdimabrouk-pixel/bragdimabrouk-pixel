@@ -57,24 +57,10 @@ I use a combination of **scientific computing, numerical methods, and modern com
 
 I am particularly interested in bridging **classical mathematical and numerical techniques** with **modern computational methods, scientific machine learning, and Physics-Informed Neural Networks (PINNs)** to study complex mathematical models and dynamical systems.
 
-## 🧮 Areas of Current Work
+## 🔬 Research Areas
 
-```text
-Differential Equations
-        │
-        ├── PDEs
-        ├── Delay Equations
-        ├── Fractional Equations
-        └── Dynamical Systems
-                 │
-                 ├── Stability
-                 ├── Bifurcation
-                 └── Numerical Simulation
-                         │
-                         ├── Scientific Computing
-                         ├── Mathematical Biology
-                         └── Machine Learning / PINNs
-```
+**PDEs** · **Differential Equations** · **Mathematical Modeling** · **Numerical Analysis**
+**Dynamical Systems** · **Scientific Computing** · **Mathematical Biology** · **Scientific AI**
 
 ## 🚀 Projects
 
