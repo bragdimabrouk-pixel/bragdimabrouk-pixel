@@ -24,7 +24,7 @@ I am a researcher interested in **mathematical modeling, differential equations,
 My research and publications are available through:
 
 * 🎓 **Google Scholar:** https://scholar.google.com/citations?user=PcQK7sUAAAAJ&hl=en
-* 🐙 **GitHub:** https://github.com/[USERNAME]
+* 🐙 **GitHub:** https://github.com/bragdimabrouk-pixel
 
 My work combines mathematical analysis with computational techniques to study nonlinear and complex systems.
 
@@ -76,7 +76,7 @@ I use GitHub to share:
 
 For research collaboration, scientific computing, or mathematical modeling:
 
-* **GitHub:** [@USERNAME](https://github.com/USERNAME)
+* **GitHub:** [@USERNAME](https://github.com/bragdimabrouk-pixel)
 * **Google Scholar:** [Research Profile](https://scholar.google.com/citations?user=PcQK7sUAAAAJ&hl=en)
 
 ---
