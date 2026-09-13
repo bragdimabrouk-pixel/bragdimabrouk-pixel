@@ -4,7 +4,7 @@
 
 I am a researcher in **mathematics and computational mathematics**, with interests in differential equations, mathematical modeling, numerical analysis, and scientific computing.
 
-My work focuses on the **analysis, modeling, and numerical simulation of complex dynamical systems**, with applications in fluid mechanics, mathematical biology.
+My work focuses on the **analysis, modeling, and numerical simulation of complex dynamical systems**, with applications in fluid mechanics and mathematical biology.
 
 ## 🔬 Research Interests
 
@@ -28,26 +28,27 @@ My research interests include the mathematical analysis and computational study 
 * 🎓 **Google Scholar:** https://scholar.google.com/citations?user=PcQK7sUAAAAJ&hl=en
 * 🐙 **GitHub:** https://github.com/bragdimabrouk-pixel
 
----
+## 💻 Computational Tools & Technologies
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> Languages & Tools
+My research combines **mathematical analysis, numerical methods, scientific computing, and modern computational technologies**.
 
-<p align="center">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=python,cpp,matlab,linux,nix,docker,git,github,latex,vscode&perline=10" />
-  </a>
-</p>
+### 🧮 Scientific Computing
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Fortran-734F96?style=for-the-badge&logo=fortran&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SageMath-1F425F?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Lean-000000?style=for-the-badge&logo=leanpub&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,fortran,matlab" />
 </p>
 
----
+### 📝 Scientific Writing
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=latex,typst" />
+</p>
+
+### 🐧 Systems & Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,docker,nix,git,github" />
+</p>
 
 ## 🚀 Projects
 
@@ -74,13 +75,35 @@ My current interests include:
 * Computational fluid mechanics
 * AI-assisted computational mathematics
 
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=bragdimabrouk-pixel&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=bragdimabrouk-pixel&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff" />
+</p>
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=bragdimabrouk-pixel&theme=tokyonight&hide_border=true" />
+</p>
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bragdimabrouk-pixel&theme=tokyo-night" />
+</p>
+
 ## 🌍 Academic Profile
 
 **Location:** Algeria
 
 **Research:** Mathematics · Differential Equations · Mathematical Modeling · Numerical Analysis · Scientific Computing
 
-**Interests:** Dynamical Systems · Mathematical Biology · Fluid Mechanics 
+**Interests:** Dynamical Systems · Mathematical Biology · Fluid Mechanics
 
 ## 📫 Contact & Academic Profiles
 
