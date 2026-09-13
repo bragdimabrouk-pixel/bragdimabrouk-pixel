@@ -28,6 +28,27 @@ My research interests include the mathematical analysis and computational study 
 * 🎓 **Google Scholar:** https://scholar.google.com/citations?user=PcQK7sUAAAAJ&hl=en
 * 🐙 **GitHub:** https://github.com/bragdimabrouk-pixel
 
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> Languages & Tools
+
+<p align="center">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=python,cpp,matlab,linux,nix,docker,git,github,latex,vscode&perline=10" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Fortran-734F96?style=for-the-badge&logo=fortran&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SageMath-1F425F?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Lean-000000?style=for-the-badge&logo=leanpub&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge"/>
+</p>
+
+---
+
 ## 💻 Computational Tools & Technologies
 
 My research combines **mathematical analysis, numerical methods, scientific computing, and modern computational technologies**.
