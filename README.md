@@ -81,8 +81,6 @@ I use GitHub to share and develop:
 
 **Research:** Mathematics · Differential Equations · Mathematical Modeling · Numerical Analysis · Scientific Computing
 
-**Interests:** Dynamical Systems · Mathematical Biology · Fluid Mechanics
-
 ## 📫 Contact & Academic Profiles
 
 * **GitHub:** https://github.com/bragdimabrouk-pixel
