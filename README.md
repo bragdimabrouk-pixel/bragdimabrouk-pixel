@@ -28,6 +28,36 @@ My research and publications are available through:
 
 My work combines mathematical analysis with computational techniques to study nonlinear and complex systems.
 
+## 💻 Computational Tools & Technologies
+
+I use a combination of **scientific computing, numerical methods, and modern computational technologies** to develop mathematical models, simulations, and research software.
+
+### 🧮 Scientific Computing
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,fortran,matlab" />
+</p>
+
+### 📝 Scientific Writing
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=latex" />
+  <img src="https://skillicons.dev/icons?i=typst" />
+</p>
+
+### 🐧 Systems & Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,docker,nix" />
+</p>
+
+### 🔬 Computational Approach
+
+> **Mathematical Theory → Numerical Methods → Scientific Computing → Simulation → Data & AI**
+
+I am particularly interested in bridging **classical mathematical and numerical techniques** with **modern computational methods, scientific machine learning, and Physics-Informed Neural Networks (PINNs)** to study complex mathematical models and dynamical systems.
+
+
 ## 💻 Computational Tools
 
 I work with:
