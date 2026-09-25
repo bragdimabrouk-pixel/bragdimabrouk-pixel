@@ -6,6 +6,7 @@ I am a researcher in **mathematics and computational mathematics**, with interes
 
 ## 🔬 Research Interests
 
+* Mathematical Physics
 * Partial Differential Equations (PDEs)
 * Nonlinear PDEs
 * Ordinary Differential Equations
@@ -15,7 +16,6 @@ I am a researcher in **mathematics and computational mathematics**, with interes
 * Dynamical Systems
 * Numerical Analysis
 * Computational Mathematics
-* Mathematical Biology
 * Fluid Mechanics and Flow Modeling
 * Scientific Computing
 
