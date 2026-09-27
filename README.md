@@ -62,6 +62,8 @@ I use GitHub to share and develop:
 </p>
 
 
+<img src="https://github-readme-stats.vercel.app/api?username=bragdimabrouk-pixel&show_icons=true&theme=tokyonight&PAT_1" />
+
 <p align="center">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=bragdimabrouk-pixel&show_icons=true&theme=tokyonight" />
 </p>
