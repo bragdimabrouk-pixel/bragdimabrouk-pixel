@@ -82,6 +82,12 @@ I use GitHub to share and develop:
 
 <img src="https://your-project-name.vercel.app/api?username=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
 
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=bragdimabrouk-pixel&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=bragdimabrouk-pixel&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 ---
 
 ## 🌍 Academic Profile
