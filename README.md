@@ -82,6 +82,10 @@ I use GitHub to share and develop:
 
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev?user=bragdimabrouk-pixel&theme=tokyonight&hide_border=true" />
+</p>
+
 
 ---
 
