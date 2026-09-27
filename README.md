@@ -80,14 +80,27 @@ I use GitHub to share and develop:
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=bragdimabrouk-pixel&theme=tokyo-night"/>
 </p>
 
-<img src="https://your-project-name.vercel.app/api?username=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
 
+## 📈 GitHub Activity & Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=bragdimabrouk-pixel&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=bragdimabrouk-pixel&layout=compact&theme=tokyonight" alt="Top Languages" />
+<div align="center">
+
+### 🔥 Contribution Activity
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bragdimabrouk-pixel&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" width="100%" alt="Contribution Activity Graph" />
+
+### 📊 GitHub Stats
+<p>
+  <img src="https://github-readme-stats.shion.dev/api?username=bragdimabrouk-pixel&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=bragdimabrouk-pixel&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
 </p>
+
+### 📅 Streak Stats
+<img src="https://streak-stats.demolab.com?user=bragdimabrouk-pixel&theme=tokyonight&hide_border=true" width="60%" alt="GitHub Streak" />
+
+</div>
+
+
+
 ---
 
 ## 🌍 Academic Profile
