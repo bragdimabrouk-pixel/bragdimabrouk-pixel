@@ -55,11 +55,12 @@ I use GitHub to share and develop:
 
 ---
 
+## 📊 GitHub Statistics
+
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=bragdimabrouk-pixel&show_icons=true&theme=tokyonight" />
 </p>
 
-## 📊 GitHub Statistics
 
 <p align="center">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=bragdimabrouk-pixel&show_icons=true&theme=tokyonight" />
