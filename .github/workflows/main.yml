@@ -1,0 +1,30 @@
+name: Update Stats Cards
+on:
+  schedule: # Runs every 12 hours
+    - cron: '0 */12 * * *'
+  workflow_dispatch: # Allows manual trigger
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: stats-organization/github-readme-stats-action@v1
+        with:
+          card: stats
+          path: profile/stats.svg
+          options: username=${{ github.repository_owner }}&show_icons=true
+      - uses: stats-organization/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          path: profile/top-langs.svg
+          options: username=${{ github.repository_owner }}&layout=compact
+      - name: Commit files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add profile/*.svg
+          git commit -m "Update stats cards" || exit 0
+          git push
