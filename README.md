@@ -64,14 +64,6 @@ I use GitHub to share and develop:
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=bragdimabrouk-pixel&amp;layout=compact&amp;theme=tokyonight" alt="Top Languages" />
 </p>
 
-## 📊 GitHub Statistics
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=bragdimabrouk-pixel&amp;show_icons=true&amp;theme=tokyonight" alt="GitHub stats" />
-<p align="center">
-<img src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=bragdimabrouk-pixel&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff" />
-</p>
-
 ---
 
 ## 🔥 Contribution Streak
