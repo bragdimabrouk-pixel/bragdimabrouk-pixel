@@ -80,7 +80,7 @@ I use GitHub to share and develop:
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=bragdimabrouk-pixel&theme=tokyo-night"/>
 </p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bragdimabrouk&theme=tokyo-night"/>
+<img src="https://your-project-name.vercel.app/api?username=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
 
 ---
 
