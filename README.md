@@ -77,16 +77,15 @@ I use GitHub to share and develop:
 ## 📈 Contribution Graph
 
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=bragdimabrouk-pixel&theme=tokyo-night"/>
-
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev?user=bragdimabrouk-pixel&theme=tokyonight&hide_border=true" />
-</p>
-
-
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bragdimabrouk-pixel&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+  <br/><br/>
+  <img src="https://github-readme-stats.shion.dev?user=bragdimabrouk-pixel&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true" height="180" />
+  <img src="https://github-readme-stats.shion.dev?user=bragdimabrouk-pixel&theme=tokyonight&hide_border=true&layout=compact" height="180" />
+</div>
 ---
 
 ## 🌍 Academic Profile
