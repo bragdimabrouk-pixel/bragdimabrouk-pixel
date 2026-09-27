@@ -2,7 +2,7 @@
 
 ### Researcher in Mathematics | PDEs | Mathematical Modeling | Mathematical Physics | Numerical Analysis  
 
-I am a researcher in **mathematics and computational mathematics**, with interests in differential equations, mathematical modeling, numerical analysis, and scientific computing.
+I am a researcher in **mathematics and computational mathematics**, with interests in differential equations, mathematical modeling, numerical analysis, and Mathematical Physics.
 
 ## 🔬 Research Interests
 
