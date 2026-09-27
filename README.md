@@ -55,6 +55,15 @@ I use GitHub to share and develop:
 
 ---
 
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=bragdimabrouk-pixel&amp;show_icons=true&amp;theme=tokyonight" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=bragdimabrouk-pixel&amp;layout=compact&amp;theme=tokyonight" alt="Top Languages" />
+</p>
+
 ## 📊 GitHub Statistics
 
 <p align="center">
