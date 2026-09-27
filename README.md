@@ -55,6 +55,17 @@ I use GitHub to share and develop:
 
 ---
 
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bragdimabrouk-pixel&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bragdimabrouk-pixel&layout=compact&theme=blue-green&title_color=00b3ff" />
+</p>
+
 ## 📊 GitHub Statistics
 
 <p align="center">
