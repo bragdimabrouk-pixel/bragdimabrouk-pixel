@@ -62,13 +62,9 @@ I use GitHub to share and develop:
 </p>
 
 
+<img src="https://github-readme-stats.vercel.app/api?username=bragdimabrouk-pixel&amp;show_icons=true&amp;theme=tokyonight" alt="GitHub stats" />
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=bragdimabrouk-pixel&show_icons=true&theme=tokyonight&PAT_1" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=bragdimabrouk-pixel&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=bragdimabrouk-pixel&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff" />
+<img src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=bragdimabrouk-pixel&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff" />
 </p>
 
 ---
