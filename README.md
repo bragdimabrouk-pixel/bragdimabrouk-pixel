@@ -80,12 +80,9 @@ I use GitHub to share and develop:
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=bragdimabrouk-pixel&theme=tokyo-night"/>
 </p>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bragdimabrouk-pixel&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-  <br/><br/>
-  <img src="https://github-readme-stats.shion.dev?user=bragdimabrouk-pixel&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true" height="180" />
-  <img src="https://github-readme-stats.shion.dev?user=bragdimabrouk-pixel&theme=tokyonight&hide_border=true&layout=compact" height="180" />
-</div>
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?user=bragdimabrouk-pixel&theme=tokyonight&hide_border=true" />
+
 ---
 
 ## 🌍 Academic Profile
