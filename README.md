@@ -1,6 +1,6 @@
 # Hi, I'm M. Bragdi 👋
 
-### Researcher in Mathematics | PDEs | Mathematical Modeling | Numerical Analysis
+### Researcher in Mathematics | PDEs | Mathematical Modeling | Mathematical Physics | Numerical Analysis  
 
 I am a researcher in **mathematics and computational mathematics**, with interests in differential equations, mathematical modeling, numerical analysis, and scientific computing.
 
@@ -71,34 +71,6 @@ I use GitHub to share and develop:
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=bragdimabrouk-pixel&theme=tokyonight&hide_border=true" />
 </p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bragdimabrouk-pixel&theme=tokyo-night"/>
-</p>
-
-
-## 📈 GitHub Activity & Statistics
-
-<div align="center">
-
-### 🔥 Contribution Activity
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bragdimabrouk-pixel&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" width="100%" alt="Contribution Activity Graph" />
-
-### 📊 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.shion.dev/api?username=bragdimabrouk-pixel&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=bragdimabrouk-pixel&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
-</p>
-
-### 📅 Streak Stats
-<img src="https://streak-stats.demolab.com?user=bragdimabrouk-pixel&theme=tokyonight&hide_border=true" width="60%" alt="GitHub Streak" />
-
-</div>
-
 
 
 ---
